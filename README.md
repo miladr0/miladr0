@@ -8,7 +8,7 @@
 </a>
 
 - :office: &nbsp;I'm currently working at **Adakerja**
-- :speech_balloon: &nbsp;I like to talk about **Design Artchetcure** and **Open Source**
+- :speech_balloon: &nbsp;I like to talk about **Design Architecture** and **Open Source**
 - :mailbox: &nbsp;Ask me about anything, I am happy to **help** :)
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 - :bird: &nbsp;Let's talk more in **[Twitter]**
