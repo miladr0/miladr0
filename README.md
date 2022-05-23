@@ -7,11 +7,12 @@
   <img src="https://github-readme-stats.vercel.app/api?username=miladr0&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Milad Ranjbar" align="right" />
 </a>
 
+- 🌐 &nbsp;My website **[miladr0]**
 - :office: &nbsp;I'm currently working at **Adakerja**
 - :speech_balloon: &nbsp;I like to talk about **Design Architecture** and **Open Source**
 - :mailbox: &nbsp;Ask me about anything, I am happy to **help** :)
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
-- :bird: &nbsp;Let's talk more in **[Twitter]**
+
 
 <br>
 
@@ -159,3 +160,4 @@
 
 [linkedin]: https://www.linkedin.com/in/milad-ranjbar "Milad Ranjbar LinkedIn"
 [twitter]: https://twitter.com/mr1_ranjbar "Milad Ranjbar Twitter"
+[miladr0]: https://miladr0.com/
