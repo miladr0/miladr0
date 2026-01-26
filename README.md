@@ -8,7 +8,7 @@
 </a>
 
 - 🌐 &nbsp;My website **[miladr0]**
-- :office: &nbsp;I'm currently working at **Adakerja**
+- :office: &nbsp;I'm currently working at **Biogen**
 - :speech_balloon: &nbsp;I like to talk about **Design Architecture** and **Open Source**
 - :mailbox: &nbsp;Ask me about anything, I am happy to **help** :)
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
